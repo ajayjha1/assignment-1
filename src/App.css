@@ -117,8 +117,6 @@
   margin-top: 20px;
   color: #6c21a8;
   border: 2px solid black;
-  height: calc(100% - 40px);
-  width: calc(100% - 40px);
 }
 .popup-box .box p {
   align-items: center;
@@ -142,7 +140,7 @@
 
 .popup-box button {
   margin-top: 20px;
-  padding: 10px 20px;
+  /* padding: 10px 20px; */
   background-color: #4285f0;
   color: white;
   border: none;
